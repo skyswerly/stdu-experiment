@@ -1,0 +1,20 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../source_code/7_multi_cycle_cpu/adder.v" \
+"../../../../../source_code/7_multi_cycle_cpu/alu.v" \
+"../../../../../source_code/7_multi_cycle_cpu/实验7_多周期CPU_源文件/data_ram_sync.v" \
+"../../../../../source_code/7_multi_cycle_cpu/decode.v" \
+"../../../../../source_code/7_multi_cycle_cpu/exe.v" \
+"../../../../../source_code/7_multi_cycle_cpu/fetch.v" \
+"../../../../../source_code/7_multi_cycle_cpu/实验7_多周期CPU_源文件/inst_rom_sync.v" \
+"../../../../../source_code/7_multi_cycle_cpu/mem.v" \
+"../../../../../source_code/7_multi_cycle_cpu/multi_cycle_cpu.v" \
+"../../../../../source_code/7_multi_cycle_cpu/regfile.v" \
+"../../../../../source_code/7_multi_cycle_cpu/wb.v" \
+"../../../../../source_code/7_multi_cycle_cpu/tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

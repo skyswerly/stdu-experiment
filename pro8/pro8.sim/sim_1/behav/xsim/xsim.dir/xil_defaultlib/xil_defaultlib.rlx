@@ -1,0 +1,18 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+E:/vivado/vivado-project/pro8/pro8.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+E:/vivado/vivado-project/source_code/7_multi_cycle_cpu/实验7_多周期CPU_源文件/data_ram_sync.v,1782891598,verilog,,E:/vivado/vivado-project/source_code/8_pipeline_cpu/decode.v,,data_ram_sync,,,,,,,,
+E:/vivado/vivado-project/source_code/7_multi_cycle_cpu/实验7_多周期CPU_源文件/inst_rom_sync.v,1782607934,verilog,,E:/vivado/vivado-project/source_code/8_pipeline_cpu/mem.v,,inst_rom,,,,,,,,
+E:/vivado/vivado-project/source_code/8_pipeline_cpu/adder.v,1750755471,verilog,,E:/vivado/vivado-project/source_code/8_pipeline_cpu/alu.v,,adder,,,,,,,,
+E:/vivado/vivado-project/source_code/8_pipeline_cpu/alu.v,1750755471,verilog,,E:/vivado/vivado-project/source_code/7_multi_cycle_cpu/实验7_多周期CPU_源文件/data_ram_sync.v,,alu,,,,,,,,
+E:/vivado/vivado-project/source_code/8_pipeline_cpu/decode.v,1750755471,verilog,,E:/vivado/vivado-project/source_code/8_pipeline_cpu/exe.v,,decode,,,,,,,,
+E:/vivado/vivado-project/source_code/8_pipeline_cpu/exe.v,1750755471,verilog,,E:/vivado/vivado-project/source_code/8_pipeline_cpu/fetch.v,,exe,,,,,,,,
+E:/vivado/vivado-project/source_code/8_pipeline_cpu/fetch.v,1750755471,verilog,,E:/vivado/vivado-project/source_code/7_multi_cycle_cpu/实验7_多周期CPU_源文件/inst_rom_sync.v,,fetch,,,,,,,,
+E:/vivado/vivado-project/source_code/8_pipeline_cpu/mem.v,1750755472,verilog,,E:/vivado/vivado-project/source_code/8_pipeline_cpu/multiply.v,,mem,,,,,,,,
+E:/vivado/vivado-project/source_code/8_pipeline_cpu/multiply.v,1750755472,verilog,,E:/vivado/vivado-project/source_code/8_pipeline_cpu/pipeline_cpu.v,,multiply,,,,,,,,
+E:/vivado/vivado-project/source_code/8_pipeline_cpu/pipeline_cpu.v,1782893425,verilog,,E:/vivado/vivado-project/source_code/8_pipeline_cpu/regfile.v,,pipeline_cpu,,,,,,,,
+E:/vivado/vivado-project/source_code/8_pipeline_cpu/regfile.v,1750755472,verilog,,E:/vivado/vivado-project/source_code/8_pipeline_cpu/wb.v,,regfile,,,,,,,,
+E:/vivado/vivado-project/source_code/8_pipeline_cpu/tb.v,1750755472,verilog,,,,tb,,,,,,,,
+E:/vivado/vivado-project/source_code/8_pipeline_cpu/wb.v,1750755472,verilog,,E:/vivado/vivado-project/source_code/8_pipeline_cpu/tb.v,,wb,,,,,,,,

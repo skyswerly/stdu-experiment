@@ -1,0 +1,13 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+E:/vivado/vivado-project/pro6/pro6.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+E:/vivado/vivado-project/source_code/6_single_cycle_cpu/adder.v,1750755468,verilog,,E:/vivado/vivado-project/source_code/6_single_cycle_cpu/alu.v,,adder,,,,,,,,
+E:/vivado/vivado-project/source_code/6_single_cycle_cpu/alu.v,1750755468,verilog,,E:/vivado/vivado-project/source_code/6_single_cycle_cpu/data_ram.v,,alu,,,,,,,,
+E:/vivado/vivado-project/source_code/6_single_cycle_cpu/data_ram.v,1750755468,verilog,,E:/vivado/vivado-project/source_code/6_single_cycle_cpu/inst_rom.v,,data_ram,,,,,,,,
+E:/vivado/vivado-project/source_code/6_single_cycle_cpu/inst_rom.v,1750755468,verilog,,E:/vivado/vivado-project/source_code/6_single_cycle_cpu/regfile.v,,inst_rom,,,,,,,,
+E:/vivado/vivado-project/source_code/6_single_cycle_cpu/regfile.v,1750755468,verilog,,E:/vivado/vivado-project/source_code/6_single_cycle_cpu/single_cycle_cpu.v,,regfile,,,,,,,,
+E:/vivado/vivado-project/source_code/6_single_cycle_cpu/single_cycle_cpu.v,1750755468,verilog,,E:/vivado/vivado-project/source_code/6_single_cycle_cpu/tb.v,,single_cycle_cpu,,,,,,,,
+E:/vivado/vivado-project/source_code/6_single_cycle_cpu/single_cycle_cpu_display.v,1750755469,verilog,,,,single_cycle_cpu_display,,,,,,,,
+E:/vivado/vivado-project/source_code/6_single_cycle_cpu/tb.v,1750755469,verilog,,,,tb,,,,,,,,

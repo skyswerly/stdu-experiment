@@ -1,0 +1,24 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/vivado-project/source_code/7_multi_cycle_cpu/adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/vivado-project/source_code/7_multi_cycle_cpu/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/vivado-project/source_code/7_multi_cycle_cpu/实验7_多周期CPU_源文件/data_ram_sync.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module data_ram_sync
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/vivado-project/source_code/7_multi_cycle_cpu/decode.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decode
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/vivado-project/source_code/7_multi_cycle_cpu/exe.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module exe
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/vivado-project/source_code/7_multi_cycle_cpu/fetch.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fetch
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/vivado-project/source_code/7_multi_cycle_cpu/实验7_多周期CPU_源文件/inst_rom_sync.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module inst_rom
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/vivado-project/source_code/7_multi_cycle_cpu/mem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mem
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/vivado-project/source_code/7_multi_cycle_cpu/multi_cycle_cpu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module multi_cycle_cpu
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/vivado-project/source_code/7_multi_cycle_cpu/regfile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module regfile
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/vivado-project/source_code/7_multi_cycle_cpu/wb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module wb
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/vivado-project/source_code/7_multi_cycle_cpu/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb

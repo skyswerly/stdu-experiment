@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/vivado-project/source_code/5_memory/memory_async/data_ram/data_ram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module data_ram
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado/vivado-project/source_code/5_memory/memory_async/data_ram/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb
