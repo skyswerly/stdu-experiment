@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1783735314 source:f:\stdu-experiment\my-os\thread_managerment\main.cpp
+	"producer_consumer.h"
+
+1783734952 source:f:\stdu-experiment\my-os\thread_managerment\producer-and-consumer.cpp
+	<thread>
+	<mutex>
+	<condition_variable>
+	<chrono>
+	<iostream>
+	<random>
+
+1783735173 f:\stdu-experiment\my-os\thread_managerment\producer_consumer.h
+	<thread>
+	<mutex>
+	<condition_variable>
+	<chrono>
+	<iostream>
+	<random>
+
+1783735171 source:f:\stdu-experiment\my-os\thread_managerment\producer_consumer.cpp
+	"producer_consumer.h"
+
