@@ -1,0 +1,1 @@
+-I"F:/stdu-experiment/my-OS/file_managerment/cmake-build-debug/file_managerment_autogen/include" -isystem E:/IDE/Qt/6.11.1/mingw_64/include/QtWidgets -isystem E:/IDE/Qt/6.11.1/mingw_64/include -isystem E:/IDE/Qt/6.11.1/mingw_64/include/QtCore -isystem "E:/IDE/Qt/6.11.1/mingw_64/mkspecs/win32-g++" -isystem E:/IDE/Qt/6.11.1/mingw_64/include/QtGui

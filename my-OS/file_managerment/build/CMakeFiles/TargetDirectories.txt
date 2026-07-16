@@ -1,0 +1,5 @@
+F:/stdu-experiment/my-OS/file_managerment/build/CMakeFiles/file_managerment.dir
+F:/stdu-experiment/my-OS/file_managerment/build/CMakeFiles/edit_cache.dir
+F:/stdu-experiment/my-OS/file_managerment/build/CMakeFiles/rebuild_cache.dir
+F:/stdu-experiment/my-OS/file_managerment/build/CMakeFiles/file_managerment_autogen_timestamp_deps.dir
+F:/stdu-experiment/my-OS/file_managerment/build/CMakeFiles/file_managerment_autogen.dir

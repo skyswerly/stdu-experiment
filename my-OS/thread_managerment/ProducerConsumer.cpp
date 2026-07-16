@@ -11,7 +11,7 @@ uniform_int_distribution<> producer_dist(1000, 2000);  // 生产者耗时：1000
 uniform_int_distribution<> consumer_dist(800, 3000);   // 消费者耗时：800-3000ms
 
 // 生产者函数实现
-void Producer()
+void Producer(int id)  // 添加id参数
 {
     while (true)
     {
@@ -23,7 +23,7 @@ void Producer()
 
         // 操作共享变量
         cnt++;
-        cout << "生产了一个产品！当前数量：" << cnt << endl;
+        cout << "生产者[P" << id << "] 生产了一个产品！当前数量：" << cnt << endl;
 
         // 通知消费者
         cv.notify_one();
@@ -38,7 +38,7 @@ void Producer()
 }
 
 // 消费者函数实现
-void Consumer()
+void Consumer(int id)  // 添加id参数
 {
     while (true)
     {
@@ -50,7 +50,7 @@ void Consumer()
 
         // 操作共享变量
         cnt--;
-        cout << "消费了一个产品！当前数量：" << cnt << endl;
+        cout << "消费者[C" << id << "] 消费了一个产品！当前数量：" << cnt << endl;
 
         // 通知生产者
         cv.notify_one();
@@ -67,11 +67,17 @@ void Consumer()
 // 启动函数实现
 void Start()
 {
-    // 创建生产者和消费者线程
-    thread producer(Producer);
-    thread consumer(Consumer);
+    // 创建生产者和消费者线程(3,2)
+    thread producer1([](){ Producer(1); });
+    thread producer2([](){ Producer(2); });
+    thread producer3([](){ Producer(3); });
+    thread consumer1([](){ Consumer(1); });
+    thread consumer2([](){ Consumer(2); });
 
     // 阻塞当前线程，等待生产者和消费者完成
-    producer.join();
-    consumer.join();
+    producer1.join();
+    producer2.join();
+    producer3.join();
+    consumer1.join();
+    consumer2.join();
 }

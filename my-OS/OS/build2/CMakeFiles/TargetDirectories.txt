@@ -1,0 +1,5 @@
+F:/stdu-experiment/my-OS/OS/build2/CMakeFiles/simulated_os.dir
+F:/stdu-experiment/my-OS/OS/build2/CMakeFiles/edit_cache.dir
+F:/stdu-experiment/my-OS/OS/build2/CMakeFiles/rebuild_cache.dir
+F:/stdu-experiment/my-OS/OS/build2/CMakeFiles/simulated_os_autogen_timestamp_deps.dir
+F:/stdu-experiment/my-OS/OS/build2/CMakeFiles/simulated_os_autogen.dir
